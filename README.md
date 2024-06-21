@@ -1,3 +1,9 @@
+# Steps followed while building
+1. Created a Template of what the blog is supposed to look like:
+    ![alt text](https://github.com/aryangavit/blog-website/blob/main/extra/version-1.0?raw=true)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
